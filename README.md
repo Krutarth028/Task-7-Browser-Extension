@@ -10,7 +10,6 @@ To learn how to detect and remove potentially harmful browser extensions to impr
    - I reviewed Excessive permissions
 3. I don't Found any suspisious extension.
 4. Restarted browser.
-5. Researched threats posed by malicious extensions.
 
 ## Outcome:
 - Gained awareness of browser-level security threats.
